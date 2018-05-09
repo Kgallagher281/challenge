@@ -130,7 +130,12 @@ footer{
 body{
 	font-size: 12px;
 	background-color: black;
+	background-image: url(https://images4.sw-cdn.net/product/picture/710x528_17781958_10431593_1487712553.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
+
+
 
 header{
 	font-size: 20px;
