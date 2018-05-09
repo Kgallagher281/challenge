@@ -4,6 +4,8 @@ body{
 	overflow-y: scroll;
 	font-size: 20px;
 	background-color: black;
+	background-size: cover;
+
 }
 
 header{
@@ -184,7 +186,7 @@ display: none;
 
 body{
 	font-size: 10px;
-	background-color: white;
+	background-color: black;
 	color: red;
 }
 
